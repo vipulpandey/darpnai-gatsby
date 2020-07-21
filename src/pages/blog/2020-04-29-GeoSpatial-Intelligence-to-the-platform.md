@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: Inception of Gully Monitoring System
-date: 2020-04-21T15:04:10.000Z
+title: GeoSpatial Intelligence to the AI
+date: 2020-04-29T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: Adding Geospatial Intelligence to the platfrom.
 tags:
   - GMS
   - Coronacrisis

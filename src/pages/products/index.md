@@ -1,14 +1,13 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Gully Monitoring System
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Effective response to CoronaCrisis and future proofing India for pandemics
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Keeping in mind the current situation GMS wants to effectively enforce social distancing in red zones or corona hotspots.
+  
+
 intro:
   blurbs:
     - image: /img/coffee.png

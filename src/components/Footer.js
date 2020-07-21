@@ -5,7 +5,7 @@ import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import youtube from '../img/social/youtube.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="DarpnAI"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
@@ -81,7 +81,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="twitter" href="https://twitter.com/darpn_ai">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -89,17 +89,17 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://instagram.com/darpn_">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="Youtube" href="https://www.youtube.com/channel/UCcIyf08zysh02qV_tkI0nQQ">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={youtube}
+                    alt="Youtube"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
