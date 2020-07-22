@@ -2,9 +2,10 @@
 templateKey: 'product-page'
 path: /products
 title: Gully Monitoring System
-image: /img/jumbotron.jpg
+image: /img/social-distancing.jpg
 heading: Effective response to CoronaCrisis and future proofing India for pandemics
 description: >-
+  The project in discussion is "Gully Monitoring System ( GMS )", which is an integrated approach with the support of Artificial Intelligence to tackle the Coronavirus Crisis in India. Although researchers are working on vaccines and other herd immunity mechanisms, one of the most important methods to contain the spread is "Social distancing" still. I have developed and tested this unique approach of "GMS" which allows us to use Artificial Intelligence and Collective intelligence to deal with the crisis.
   Keeping in mind the current situation GMS wants to effectively enforce social distancing in red zones or corona hotspots.
   
 
@@ -12,11 +13,8 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        For the GMS Specific these AI models will be deployed in “Darpn AI” Observational Intelligent Nodes”.
+
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -58,19 +56,18 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/darpnai-gms-ai.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Rumi
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Start a huge, foolish project, like Noah…it makes absolutely no difference what people think of you..
+  - author: Rumi
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/ai-covid-control.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: There are three parts of Gully Monitoring System
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
@@ -81,20 +78,20 @@ pricing:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
+      plan: Identifying High Risk Areas
       price: '50'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
+      plan: Deploying DarpnAI AI powered Cameras
       price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
+      plan: Generating Real time reports & make intelligent decisions
       price: '??'
 ---

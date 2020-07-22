@@ -1,47 +1,30 @@
 ---
 templateKey: index-page
-title: Collective Intelligence Platform
+title: DarpnAI Collective Intelligence Platform
 image: /img/home-jumbotron.jpg
-heading: Collective Intelligence Platform
-subheading: Using Artificial Intelligence to solve the pressing issues of the Humanty
+heading:  Artificial Intelligence for Social Good
+subheading: Using State of the art Artificial Intelligence and Intuitive Power of Human Brains 
 mainpitch:
-  title: Why DarpnAI
+  title: India's Indeginious Artificial Intelligence Platform
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+     Data is the oil on which, engine of Artificial Intelligence runs and India is a data rich country. At DarpnAI, we want to utilize that rich, highly variant and surplus data mapped with GeoSpatial Intelligence to train the indigenous Artificial Intelligence that can provide its services across various Industries and use cases like Agritech, Automotive, Governance, Education, Manufacturing, Healthcare etc.
+     
 description: >-
-  Training Artificial Intelligence and Human Intelligence for the age
+  DarpnAI will provide a ubiquitous cognitive environment where humans and machines will live in harmony, as peers, to continually reinvent themselves through the application of advanced and future technologies. Our future will be shaped by exciting technologies that will blur the gap between man and machine; artificially intelligent software, internet of things that can sense human needs, seamless transfer between physical and virtual worlds and everyday robots that create more time to live.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/vision.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Vision APIs. Derive insights from your images in the cloud or at the edge with DarpnAI Vision or use pre-trained Vision API models to detect emotion, face, object, understand text, and more. ALso you can Customize image recognition to fit your business needs.
+    - image: /img/nlp.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        NLP APIs. DarpnAI Natural Language API’s pre-trained models deliver language understanding features, including content classification and sentiment, entity, and syntax analysis. Understand social media sentiment and call center conversations and summarize text.
+    - image: /img/speech.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Speech APIs. Transcribe audible speech into readable, searchable text. Convert text to lifelike speech for more natural interfaces.Integrate real-time speech translation into your apps.Identify and verify the people speaking based on audio.       
+    - image: /img/mobile.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Get AI powered decision making and alerts right into you phone and integrate DarpnAI into your Mobile App services. Get a glimpse of how AI is creating personalized app experiences for users and is adapting to various situations due to automated learning capabilities.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
