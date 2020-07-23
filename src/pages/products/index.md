@@ -3,38 +3,30 @@ templateKey: 'product-page'
 path: /products
 title: Gully Monitoring System
 image: /img/social-distancing.jpg
-heading: Effective response to CoronaCrisis and future proofing India for pandemics
+heading: Live Intelligent monitoring and reporting for Covid19 and future proofing India for pandemics
 description: >-
   The project in discussion is "Gully Monitoring System ( GMS )", which is an integrated approach with the support of Artificial Intelligence to tackle the Coronavirus Crisis in India. Although researchers are working on vaccines and other herd immunity mechanisms, one of the most important methods to contain the spread is "Social distancing" still. I have developed and tested this unique approach of "GMS" which allows us to use Artificial Intelligence and Collective intelligence to deal with the crisis.
-  Keeping in mind the current situation GMS wants to effectively enforce social distancing in red zones or corona hotspots.
+  Keeping in mind the current situation GMS wants to effectively enforce social distancing in red zones or corona hotspots at a massive scale.
   
 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/gms1.png
       text: >
-        For the GMS Specific these AI models will be deployed in “Darpn AI” Observational Intelligent Nodes”.
+        Identifying High Risk Zones points. A real time data collection mechanism that will help us classify the threat zones in a given System, with GIS system to do real time monitoring.
 
-    - image: /img/coffee-gear.png
+
+    - image: /img/noida_gms.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Using Artificial Intelligence powered cameras for observations. For the GMS Specific these AI models will be deployed in “Darpn AI” Observational Intelligent Nodes”.
+    - image: /img/noida_score.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Automated reporting and Social Distancing Scores. Using integrated approach with the support of Artificial Intelligence to do Crowd Analytics & Real time intelligence, We can detect Crowd density in any small gully and colonies using AI and can ensure that people are following the rules & share daily reporting.
+
+    - image: /img/policeman.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Automated Policing & Using Volunteers for campaigning and creaing awareness & To implement the “State of the Art” Contactless mechanism of “GMS”  to ensure Data Centric monitoring and Outreach to the different threat perception Zones and minimizing the direct contact of the health and security personnels by using Contactless Policing approach.
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -50,21 +42,22 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/ai-modules.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/darpn-ai-reports.png
   image3:
     alt: Coffee beans
-    image: /img/darpnai-gms-ai.jpg
+    image: /img/darpn-ai-service.png
 testimonials:
-  - author: Rumi
+  - author: Harvard study
     quote: >-
-      Start a huge, foolish project, like Noah…it makes absolutely no difference what people think of you..
-  - author: Rumi
+      "Coronavirus may turn seasonal, social distancing needed till 2022" 
+  - author: UK NHS
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      "the social distancing measures reduced the growth rate of confirmed COVID-19 cases by 9 percentage points after 16 days and suggests that the number of cases would have been 35 times higher without any of the measures"
+
+
 full_image: /img/ai-covid-control.jpg
 pricing:
   heading: There are three parts of Gully Monitoring System
