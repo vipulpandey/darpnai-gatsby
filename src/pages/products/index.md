@@ -25,7 +25,7 @@ intro:
 
     - image: /img/policeman.png
       text: >
-        Automated Policing & Using Volunteers for campaigning and creaing awareness & To implement the “State of the Art” Contactless mechanism of “GMS”  to ensure Data Centric monitoring and Outreach to the different threat perception Zones and minimizing the direct contact of the health and security personnels by using Contactless Policing approach.
+        Behavioural training Using Volunteers & targeted Policing. To implement the “State of the Art” Contactless mechanism of “GMS” to ensure Data Centric monitoring and Outreach to the different threat perception Zones and providing behavioural triaining to the people to inculcate healthier lifestyle and best public practices that minimizes the virus risk along with campaigning creaing awareness about covid19.
 
   heading: What we offer
   description: >
@@ -62,29 +62,31 @@ full_image: /img/ai-covid-control.jpg
 pricing:
   heading: There are three parts of Gully Monitoring System
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Identifying High Risk Areas
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Deploying DarpnAI AI powered Cameras
+        - Live Data feeds
+        - Identifying High Risk Areas
+        - Deploying DarpnAI AI powered Cameras
+        - extracting quality data
+        
+      plan: Data
+      price: 
+    - description: 
+      items:        
+        - Training high end AI models
+        - intelligent decisions for efficient policy making
+        - Generating Real time reports
+        - Predicting high risk areas
+      plan: Intelligence 
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Creating a positive public mindset 
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Generating Real time reports & make intelligent decisions
+        - Behavioural Training
+        - Awareness for healthy public interactions
+        - Efficient Policing  
+        - Content Creation for Awareness
+      plan: Awareness
       price: '??'
 ---

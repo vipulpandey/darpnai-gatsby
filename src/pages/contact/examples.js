@@ -9,37 +9,33 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Hi people</h1>
-              <p>
-                This is an example site integrating Netlify’s form handling with
-                Gatsby
+              <h1>Gully Voluteering is a Public Outreach Initiative of DarpnAI. Few important things are in development, Stay Tuned</h1>
+              <p>              
+              In the meanwhile, If you want to be Gully Volunteer and help India fight CoronaVirus, Submit the form at : 
               </p>
               <ul>
                 <li>
-                  <Link to="/contact">Basic contact form</Link>
+                <a href="https://forms.gle/Xz3cRr7eNYFzUXoAA">
+                  Form for Gully Volunteers
+                </a>
                 </li>
-                <li>
+                {/* <li>
                   <Link to="/contact/file-upload/">Form with file upload</Link>
-                </li>
+                </li> */}
               </ul>
 
-              <h2>Troubleshooting</h2>
-              <h3>Forms stop working after upgrading to Gatsby v2</h3>
+              <h2>Help</h2>
+              <h3>What is Gully Volunteering ?</h3>
               <p>
-                This can be caused by the offline-plugin.{' '}
-                <a href="https://github.com/gatsbyjs/gatsby/issues/7997#issuecomment-419749232">
-                  Workaround
-                </a>{' '}
-                is to use <code>?no-cache=1</code> in the POST url to prevent
-                the service worker from handling form submissions
+                The daily selfless tasks and duties that as a volunteers you have to perform like 
+                <li>helping the needy in your area</li>
+                <li>creating awareness against social stigmas related to CoronaVirus </li>
+                <li>do a distress assessment surveys due to pandemic</li>
+                <li>learn and grow with new skills everyday</li>
               </p>
-              <h3>Adding reCAPTCHA</h3>
+              <h3>How you can Join for Gully Volunteering ?</h3>
               <p>
-                If you are planning to add reCAPTCHA please go to{' '}
-                <a href="https://github.com/imorente/gatsby-netlify-form-example">
-                  imorente/gatsby-netlify-form-example
-                </a>{' '}
-                for a working example.
+                Please, fill the form above.
               </p>
             </div>
           </div>

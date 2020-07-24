@@ -4,32 +4,39 @@ title: What is Gully Monitoring System
 date: 2020-05-22T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: It is integrated well balanced approach unique to system ( in this case, India ) for minimizing the spread of Covid19 and its negative impact on the society.
 tags:
   - GMS
   - Coronacrisis
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
-
+![darpn-ai-service](/img/darpn-ai-service.png)
 
 ## Coronavirus pandemic 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+GMS is a Local intelligence data driven platform which will use 
+* Real time Data Collection
+* GIS Viz & analytics
+* Artificial Intelligence to do crowd Analytics
+* Social engagement Acivities to reduce the risk and burden on the infrastructure
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+* Choosing Target Area ( For test Case )
+* Setting up Data Collection Nodes at Crowd Hotspots
+* Volunteer Based
+* CCTVs, Drones
+* Data Preprocessing  ( Types of Data )
+* Analysis - Using AI Modules of GMS
+* Daily Reporting 
+* Live reporting
+* Daily & Weekly Reporting
+* Risk Mitigation using Awareness & Social Distancing Enforcing Volunteers
 
-## Can, we use Artificial Intelligence to provide effective response ?
+
+<!-- ## Can, we use Artificial Intelligence to provide effective response ?
 
 ## Crowd tagger App
 
 ## Inception of Gully Monitoring System
 
-## Gully Volunteering System
+## Gully Volunteering System -->
 
