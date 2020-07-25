@@ -3,11 +3,11 @@ templateKey: index-page
 title: DarpnAI Collective Intelligence Platform
 image: /img/home-jumbotron.jpg
 heading:  Artificial Intelligence for Social Good
-subheading: Using State of the art Artificial Intelligence and Intuitive Power of Human Brains 
+subheading: State of the art Artificial Intelligence Combined with Intuitive Power of Human Brains 
 mainpitch:
   title: India's Indeginious Artificial Intelligence Platform
   description: >
-     Data is the oil on which, engine of Artificial Intelligence runs and India is a data rich country. At DarpnAI, we want to utilize that rich, highly variant and surplus data mapped with GeoSpatial Intelligence to train the indigenous Artificial Intelligence that can provide its services across various Industries and use cases like Agritech, Automotive, Governance, Education, Manufacturing, Healthcare etc.
+     Data is the oil on which, engine of Artificial Intelligence runs & India is a data rich country. At DarpnAI, we want to utilize that rich, highly variant and surplus data mapped with GeoSpatial Intelligence to train the indigenous Artificial Intelligence that can provide its services across various Industries and use cases like Agritech, Automotive, Governance, Education, Manufacturing, Healthcare, Smart Cities etc.
      
 description: >-
   DarpnAI will provide a ubiquitous cognitive environment where humans and machines will live in harmony, as peers, to continually reinvent themselves through the application of advanced and future technologies. Our future will be shaped by exciting technologies that will blur the gap between man and machine; artificially intelligent software, internet of things that can sense human needs, seamless transfer between physical and virtual worlds and everyday robots that create more time to live.
