@@ -22,6 +22,7 @@ intro:
     - image: /img/noida_score.png
       text: >
         Automated reporting and Social Distancing Scores. Using integrated approach with the support of Artificial Intelligence to do Crowd Analytics & Real time intelligence, We can detect Crowd density in any small gully and colonies using AI and can ensure that people are following the rules & share daily reporting.
+        
 
     - image: /img/policeman.png
       text: >
