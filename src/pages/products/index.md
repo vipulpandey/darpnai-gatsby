@@ -5,7 +5,7 @@ title: Gully Monitoring System
 image: /img/social-distancing.jpg
 heading: Live Intelligent monitoring and reporting for Covid19 powered by Artificial Intelligence and future proofing India for pandemics
 description: >-
-  The project in discussion is "Gully Monitoring System ( GMS )", which is an integrated approach with the support of Artificial Intelligence to tackle the Coronavirus Crisis in India. Although researchers are working on vaccines and other herd immunity mechanisms, one of the most important methods to contain the spread is "Social distancing" still. I have developed and tested this unique approach of "GMS" which allows us to use Artificial Intelligence and Collective intelligence to deal with the crisis.
+  "Gully Monitoring System ( GMS )", which is an integrated approach with the support of Artificial Intelligence to tackle the Coronavirus Crisis in India. Although researchers are working on vaccines and other herd immunity mechanisms, one of the most important methods to contain the spread is "Social distancing" still. I have developed and tested this unique approach of "GMS" which allows us to use Artificial Intelligence and Collective intelligence to deal with the crisis.
   Keeping in mind the current situation GMS wants to effectively enforce social distancing in red zones or corona hotspots at a massive scale.
   
 
@@ -29,25 +29,19 @@ intro:
 
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    
 main:
-  heading: Great coffee with no compromises
+  heading: Effective tool for Government to fight Coronavirus
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    With AI powered montioring and decision making, DarpnAI provides the Intelligence and insights right in your phone, through which you can check live feeds of any city, town and high density areas, and how they are doing on social distancing and health measures scores plus our volunteers are their to enforce awareness activities on the ground and other social works.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: AI modules for DarpnAi
     image: /img/ai-modules.png
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Reports for Darpnai
     image: /img/darpn-ai-reports.png
   image3:
-    alt: Coffee beans
+    alt: AI service for DarpnAI
     image: /img/darpn-ai-service.png
 testimonials:
   - author: Harvard study
