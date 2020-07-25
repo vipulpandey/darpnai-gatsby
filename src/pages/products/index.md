@@ -6,7 +6,7 @@ image: /img/social-distancing.jpg
 heading: Live Intelligent monitoring and reporting for Covid19 powered by Artificial Intelligence and future proofing India for pandemics
 description: >-
   "Gully Monitoring System ( GMS )", which is an integrated approach with the support of Artificial Intelligence to tackle the Coronavirus Crisis in India. Although researchers are working on vaccines and other herd immunity mechanisms, one of the most important methods to contain the spread is "Social distancing" still. I have developed and tested this unique approach of "GMS" which allows us to use Artificial Intelligence and Collective intelligence to deal with the crisis.
-  Keeping in mind the current situation GMS wants to effectively enforce social distancing in red zones or corona hotspots at a massive scale.
+  Keeping in mind the current situation, GMS wants to effectively enforce social distancing in red zones or corona hotspots at a massive scale using Artifical Intelligence along with other AI services for Pandemic control and minimizing the negative after affects.
   
 
 intro:
